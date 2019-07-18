@@ -1,5 +1,6 @@
 # Earthquake-Data-Analysis
 The project is implemented using Jupyter's Python IDE as a .ipynb file. 
+
 Data Science Project analyzing Earthquake Data obtained from the National Oceanic and Atmospheric Administration (NOAA) Database. Using the Pandas library in Python 3.0, the .csv file containing raw data pertaining to earthquakes that have occurred from 2150 BC to 2019 AD. 
 
 Citation for dataset:
